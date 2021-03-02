@@ -51,6 +51,7 @@
 .final-nav-list {
   display: none;
   position: absolute;
+  width: 100%;
   left: 100%;
   top: 0;
 }
@@ -61,8 +62,4 @@
 
 .list-item:hover > .final-nav-list {
   display: block;
-}
-
-.link-config {
-  padding: 10px;
 }
